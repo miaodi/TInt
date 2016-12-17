@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/miaodi/ClionProjects/TInt/TIntStack.cpp
+TIntStack.h
+/Users/miaodi/ClionProjects/TInt/TIntStack.h
+iostream
+-
+
+/Users/miaodi/ClionProjects/TInt/TIntStack.h
+
+/Users/miaodi/ClionProjects/TInt/main.cpp
+iostream
+-
+TIntStack.h
+/Users/miaodi/ClionProjects/TInt/TIntStack.h
+
