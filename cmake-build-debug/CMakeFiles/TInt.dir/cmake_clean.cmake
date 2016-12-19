@@ -1,6 +1,7 @@
 file(REMOVE_RECURSE
   "CMakeFiles/TInt.dir/main.cpp.o"
   "CMakeFiles/TInt.dir/TIntStack.cpp.o"
+  "CMakeFiles/TInt.dir/TString.cpp.o"
   "TInt.pdb"
   "TInt"
 )

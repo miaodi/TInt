@@ -5,6 +5,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
   "/Users/miaodi/ClionProjects/TInt/TIntStack.cpp" "/Users/miaodi/ClionProjects/TInt/cmake-build-debug/CMakeFiles/TInt.dir/TIntStack.cpp.o"
+  "/Users/miaodi/ClionProjects/TInt/TString.cpp" "/Users/miaodi/ClionProjects/TInt/cmake-build-debug/CMakeFiles/TInt.dir/TString.cpp.o"
   "/Users/miaodi/ClionProjects/TInt/main.cpp" "/Users/miaodi/ClionProjects/TInt/cmake-build-debug/CMakeFiles/TInt.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")

@@ -14,6 +14,18 @@ iostream
 
 /Users/miaodi/ClionProjects/TInt/TIntStack.h
 
+/Users/miaodi/ClionProjects/TInt/TString.cpp
+TString.h
+/Users/miaodi/ClionProjects/TInt/TString.h
+stdlib.h
+/Users/miaodi/ClionProjects/TInt/stdlib.h
+string.h
+/Users/miaodi/ClionProjects/TInt/string.h
+iostream
+-
+
+/Users/miaodi/ClionProjects/TInt/TString.h
+
 /Users/miaodi/ClionProjects/TInt/main.cpp
 iostream
 -

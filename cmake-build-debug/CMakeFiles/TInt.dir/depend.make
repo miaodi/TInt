@@ -4,6 +4,9 @@
 CMakeFiles/TInt.dir/TIntStack.cpp.o: ../TIntStack.cpp
 CMakeFiles/TInt.dir/TIntStack.cpp.o: ../TIntStack.h
 
+CMakeFiles/TInt.dir/TString.cpp.o: ../TString.cpp
+CMakeFiles/TInt.dir/TString.cpp.o: ../TString.h
+
 CMakeFiles/TInt.dir/main.cpp.o: ../TIntStack.h
 CMakeFiles/TInt.dir/main.cpp.o: ../main.cpp
 

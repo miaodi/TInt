@@ -150,6 +150,33 @@ TIntStack.cpp.s:
 	$(MAKE) -f CMakeFiles/TInt.dir/build.make CMakeFiles/TInt.dir/TIntStack.cpp.s
 .PHONY : TIntStack.cpp.s
 
+TString.o: TString.cpp.o
+
+.PHONY : TString.o
+
+# target to build an object file
+TString.cpp.o:
+	$(MAKE) -f CMakeFiles/TInt.dir/build.make CMakeFiles/TInt.dir/TString.cpp.o
+.PHONY : TString.cpp.o
+
+TString.i: TString.cpp.i
+
+.PHONY : TString.i
+
+# target to preprocess a source file
+TString.cpp.i:
+	$(MAKE) -f CMakeFiles/TInt.dir/build.make CMakeFiles/TInt.dir/TString.cpp.i
+.PHONY : TString.cpp.i
+
+TString.s: TString.cpp.s
+
+.PHONY : TString.s
+
+# target to generate assembly for a file
+TString.cpp.s:
+	$(MAKE) -f CMakeFiles/TInt.dir/build.make CMakeFiles/TInt.dir/TString.cpp.s
+.PHONY : TString.cpp.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -189,6 +216,9 @@ help:
 	@echo "... TIntStack.o"
 	@echo "... TIntStack.i"
 	@echo "... TIntStack.s"
+	@echo "... TString.o"
+	@echo "... TString.i"
+	@echo "... TString.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

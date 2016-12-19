@@ -3,5 +3,5 @@ project(TInt)
 
 set(CMAKE_CXX_STANDARD 11)
 
-set(SOURCE_FILES main.cpp TIntStack.cpp TIntStack.h)
+set(SOURCE_FILES main.cpp TIntStack.cpp TIntStack.h TString.cpp TString.h)
 add_executable(TInt ${SOURCE_FILES})
